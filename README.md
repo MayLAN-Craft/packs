@@ -1,2 +1,2 @@
 # packs
-SHA1 ресурспака: 56883bdf7812ef78b1d26b1116c32be46c9180bd
+SHA1 ресурспака: 76e51efd17c378de8014a7d81b4615cbdbba4416
